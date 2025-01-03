@@ -1,1 +1,1 @@
-hello from file2
+Some is some text.
